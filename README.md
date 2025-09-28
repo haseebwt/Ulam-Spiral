@@ -20,5 +20,5 @@ The spiral is generated using an algorathim (function `change()` in `generate.py
   <img src=https://github.com/haseebwt/Ulam-Spiral/blob/main/number_spiral.png>
 </div>
 
-# Conclusion
+## Conclusion
 I do wish to write the program in other languages as well! Also, I would like to make the same spiral with matrices as well.
